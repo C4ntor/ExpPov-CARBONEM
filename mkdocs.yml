@@ -6,6 +6,17 @@ theme:
 plugins:
   - search
   - mkdocstrings
-  - mathjax
 nav:
   - Overview: index.md
+
+markdown_extensions:
+  - mdx_math
+  - admonition
+  - sane_lists
+  - pymdownx.highlight:
+      auto_title: false
+  - pymdownx.superfences
+  - pymdownx.keys
+docs_dir: src
+edit_uri: edit/main/src/
+site_dir: docs
