@@ -6,6 +6,6 @@ theme:
 plugins:
   - search
   - mkdocstrings
-
+  - mathjax
 nav:
   - Overview: index.md
