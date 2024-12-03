@@ -17,6 +17,5 @@ markdown_extensions:
       auto_title: false
   - pymdownx.superfences
   - pymdownx.keys
-docs_dir: src
-edit_uri: edit/main/src/
-site_dir: docs
+
+
