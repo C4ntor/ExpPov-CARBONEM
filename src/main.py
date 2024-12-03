@@ -1,7 +1,7 @@
 #hello
 
 class Test:
-    """Test Class
+    """Test -- Class 
     """
 
 
