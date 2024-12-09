@@ -16,6 +16,7 @@ markdown_extensions:
   - pymdownx.highlight:
       auto_title: false
   - pymdownx.superfences
-  - pymdownx.keys
-
+  - pymdownx.keys  
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
